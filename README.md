@@ -1,15 +1,22 @@
-# hxntxihero
+<div align="center">
 
-**Student & Creative Developer**
-i build some stuff with focus on aesthetics, performance and looks so far.
+# **hxntxihero**
+<img width="1920" height="768" alt="XvXGCmHaxu4" src="https://github.com/user-attachments/assets/889e7caa-ce9b-4f66-8962-49307c40156a" />
+
+**student & developer**
+
+*building digital experiences with a focus on aesthetics and performance.*
 
 ---
 
-### / Projects
-* **my website** - so far, its WIP, nothing to show yet.
+### / projects
+*my website - work in progress. still WIP.*
 
-### / Technical Stack
-* **languages:** TypeScript, C#, Python, SQL.
+---
+
+### / technical Stack
+
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
@@ -20,20 +27,24 @@ i build some stuff with focus on aesthetics, performance and looks so far.
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
-* **frameworks:** Next.js, React, Unity Engine.
-* **design:** CSS-in-JS, Framer Motion, Apple Design Language.
+`Next.js` • `Framer Motion` • `Tailwind CSS` • `Unity Engine`
 
 ---
 
-### / Identity
-Current focus: trying to finish my ahh website
+### / identity
+Current focus: **finishing my ahh website**
 
-### / other interests:
-* ngl, i like shi like Squad, War Thunder, Arma 3, Ready or Not, whatever. 
-* like sound designing
-* learning japanese, mastering english. native is kazakh and russian. 
+**interests:**
+Squad • War Thunder • Arma 3 • Ready or Not
+Sound Design • Tactical Aesthetics
+
+**languages:**
+japanese (learning) • english (Mastering)
+kazakh & russian (Native)
 
 ---
 
 ### / Reach me
 [Discord](https://discord.gg/26Q3FctXsu) • [Website](https://hxntxihero.lol)
+
+</div>
