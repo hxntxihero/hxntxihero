@@ -36,4 +36,4 @@ Current focus: trying to finish my ahh website
 ---
 
 ### / Reach me
-[Discord](https://discord.gg/26Q3FctXsu) • [Last.fm](https://www.last.fm/user/yourusername) • [Website](https://hxntxihero.lol)
+[Discord](https://discord.gg/26Q3FctXsu) • [Website](https://hxntxihero.lol)
