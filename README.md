@@ -14,7 +14,7 @@
 
 ---
 
-### / technical Stack
+### / technical stack
 
 <br />
 
@@ -35,8 +35,7 @@
 Current focus: **finishing my ahh website**
 
 **interests:**
-Squad • War Thunder • Arma 3 • Ready or Not
-Sound Design • Tactical Aesthetics
+website, windows customization, software creation
 
 **languages:**
 japanese (learning) • english (Mastering)
